@@ -1,0 +1,112 @@
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.csprojAssemblyReference.cache
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Luu_DiplomaProject_Angular.dll.config
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Luu_DiplomaProject_Angular.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Luu_DiplomaProject_Angular.pdb
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csc.exe
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csc.exe.config
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csc.rsp
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csi.exe
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csi.exe.config
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csi.rsp
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.AppContext.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Console.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.Compression.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.Pipes.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Claims.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.ValueTuple.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\vbc.exe
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\vbc.exe.config
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\vbc.rsp
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.csproj.CoreCompileInputs.cache
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.csproj.CopyComplete
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.dll
+C:\Users\thien\Desktop\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.pdb
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.csprojAssemblyReference.cache
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.pdb
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Luu_DiplomaProject_Angular.dll.config
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Luu_DiplomaProject_Angular.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Luu_DiplomaProject_Angular.pdb
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csc.exe
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csc.exe.config
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csc.rsp
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csi.exe
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csi.exe.config
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\csi.rsp
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.AppContext.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Collections.Immutable.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Console.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.Compression.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.FileSystem.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.IO.Pipes.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Reflection.Metadata.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.AccessControl.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Claims.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.ValueTuple.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.XPath.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\vbc.exe
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\vbc.exe.config
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\vbc.rsp
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\VBCSCompiler.exe
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\roslyn\VBCSCompiler.exe.config
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.csproj.CoreCompileInputs.cache
+D:\TAFE - External\Diploma - Software Development T4\PROJECT\SUBMISSION\Grande Gift - Angular\Luu_DiplomaProject_Angular\obj\Debug\Luu_DiplomaProject_Angular.csproj.CopyComplete
